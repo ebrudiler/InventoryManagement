@@ -1,2 +1,2 @@
 # InventoryManagement
-The solution I have solved to Inventort Management
+The solution I have solved to Inventory Management
